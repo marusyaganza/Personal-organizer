@@ -1,0 +1,14 @@
+# JetBrains software
+.idea/
+*.iml
+
+# Compile results
+dist/
+
+# npm
+node_modules/
+package-lock.json
+
+# Visual Studio Code
+.vscode
+
